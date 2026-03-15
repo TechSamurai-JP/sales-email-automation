@@ -29,4 +29,4 @@ Google Sheets + GAS + OpenAI APIを使った営業メール自動化ツール
 | 会社名 | URL | 担当者名 | 生成メール | ログ |
 
 ## スクリーンショット
-![動作画面](screenshot.png)
+![動作画面](ex1.png)
